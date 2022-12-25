@@ -18,3 +18,5 @@ task
 tasks.db
 
 .DS_Store
+
+tasksStorage
